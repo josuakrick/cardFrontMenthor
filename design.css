@@ -7,14 +7,11 @@
 }
  
  .container {
-    /* position: absolute;
-    left: 30%; */
     margin: auto;
     padding: 50px;
     width: 500px;
     background-color: hsl(225, 100%, 94%);
 }
-
 
  img {
     width: 100%;
